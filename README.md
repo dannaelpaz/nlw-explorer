@@ -6,7 +6,9 @@
 
 Projeto construído em um dos eventos da Next Level Week, da Rocketseat
 
-## Tecnologias
+[🔗 Clique aqui para acessar](https://dannaelpaz.github.io/nlw-explorer/)
+
+## 🛠️ Tecnologias
 
 - HTML
 - CSS
